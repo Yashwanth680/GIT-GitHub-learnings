@@ -1,0 +1,21 @@
+some of the few commands in git and github:
+GIT:
+-->it is a version control system that checks the updates and tracks each any every updates done in a system and keeps organized.
+
+GITHUB:
+--> It acts as a central hub for storing all the different versions or updates and stores into it. makes it easy to use and see and work with different versions.
+
+Git is mainly divided into 2 parts
+1.local--> local refers to your own computer and works done in your system. this is where you store and save the files and store them.
+2.Remote--> this is where you push or upload the data, acts a cloud storage.
+
+->REPOSITORY:
+  the place where we store all he data and files and store in them.
+
+commands:
+->touch : the command we use to create files into the folder
+->explorer. : command is used to open the files or folders in the directory (in WINDOWS).
+->git init : the command we use to start working in the folder.
+->ls : used to show the files and folders located in the main folder we are working.
+->ls -la : shows the hidden files in the folder.
+->commit: command use to save the changes what ever we made in the code or text.
