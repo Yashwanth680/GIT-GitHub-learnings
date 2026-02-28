@@ -13,6 +13,7 @@ Git is mainly divided into 2 parts
   the place where we store all he data and files and store in them.
 
 commands:
+->cd . : this command is used to enter into the fole or file directly 
 ->touch : the command we use to create files into the folder
 ->explorer. : command is used to open the files or folders in the directory (in WINDOWS).
 ->git init : the command we use to start working in the folder.
