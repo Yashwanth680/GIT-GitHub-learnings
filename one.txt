@@ -1,4 +1,6 @@
-some of the few commands in git and github:
+//how to create a repository and save in the github:
+
+->some of the few commands in git and github:
 GIT:
 -->it is a version control system that checks the updates and tracks each any every updates done in a system and keeps organized.
 
