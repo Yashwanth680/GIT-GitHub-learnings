@@ -23,3 +23,4 @@ commands:
 ->ls -la : shows the hidden files in the folder.
 ->commit: command use to save the changes what ever we made in the code or text.
 -> git clone: this command used to clone the local repository (i.e.)in your computer to the cloud data directly.
+->git status: this command is used to check what updates are we done in the file or folder.
